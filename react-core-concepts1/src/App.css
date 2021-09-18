@@ -38,20 +38,14 @@
 }
 
 .container{
-  background-color: rgb(228, 238, 238);
-  color: red;
-  padding: 10px;
-  margin: 10px;
+  background-color: antiquewhite;
+  color: rebeccapurple;
+  padding: 20px;
+  border-radius: 20px;
 }
 .person{
-  background-color:green;
-  color:aliceblue;
-  border:10px solid salmon;
-border-radius:30px;
-  padding:10px;
-  margin:20px;
-}
-
-.count{
-  text-align: center;
+  background-color: skyblue;
+  border: 3px solid lightsalmon;
+  border-radius: 20px;
+  margin: 10px;
 }
